@@ -1,0 +1,7 @@
+# Ignorowane pliki 
+.classpath
+.idea/
+.project
+.settings/
+RESTSample.iml
+target/
